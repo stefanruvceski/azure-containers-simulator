@@ -1,0 +1,69 @@
+C:\Users\student\Downloads\GitHub-master\GitHub-master\Cloud Computing\ComputeService\Container\bin\Debug\Container.exe.config
+C:\Users\student\Downloads\GitHub-master\GitHub-master\Cloud Computing\ComputeService\Container\bin\Debug\Container.exe
+C:\Users\student\Downloads\GitHub-master\GitHub-master\Cloud Computing\ComputeService\Container\bin\Debug\Container.pdb
+C:\Users\student\Downloads\GitHub-master\GitHub-master\Cloud Computing\ComputeService\Container\bin\Debug\ServiceContract.dll
+C:\Users\student\Downloads\GitHub-master\GitHub-master\Cloud Computing\ComputeService\Container\bin\Debug\ServiceContract.pdb
+C:\Users\student\Downloads\GitHub-master\GitHub-master\Cloud Computing\ComputeService\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\GitHub-master\GitHub-master\Cloud Computing\ComputeService\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\GitHub-master\GitHub-master\Cloud Computing\ComputeService\Container\obj\Debug\Container.exe
+C:\Users\student\Downloads\GitHub-master\GitHub-master\Cloud Computing\ComputeService\Container\obj\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatA\ComputeService\Container\bin\Debug\Container.exe.config
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatA\ComputeService\Container\bin\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatA\ComputeService\Container\bin\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatA\ComputeService\Container\bin\Debug\ServiceContract.dll
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatA\ComputeService\Container\bin\Debug\ServiceContract.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatA\ComputeService\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatA\ComputeService\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatA\ComputeService\Container\obj\Debug\Container.csproj.CopyComplete
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatA\ComputeService\Container\obj\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatA\ComputeService\Container\obj\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC\ComputeService\Container\bin\Debug\Container.exe.config
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC\ComputeService\Container\bin\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC\ComputeService\Container\bin\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC\ComputeService\Container\bin\Debug\ServiceContract.dll
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC\ComputeService\Container\bin\Debug\ServiceContract.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC\ComputeService\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC\ComputeService\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC\ComputeService\Container\obj\Debug\Container.csproj.CopyComplete
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC\ComputeService\Container\obj\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC\ComputeService\Container\obj\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy\ComputeService\Container\bin\Debug\Container.exe.config
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy\ComputeService\Container\bin\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy\ComputeService\Container\bin\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy\ComputeService\Container\bin\Debug\ServiceContract.dll
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy\ComputeService\Container\bin\Debug\ServiceContract.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy\ComputeService\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy\ComputeService\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy\ComputeService\Container\obj\Debug\Container.csproj.CopyComplete
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy\ComputeService\Container\obj\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy\ComputeService\Container\obj\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy - Copy\ComputeService\Container\bin\Debug\Container.exe.config
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy - Copy\ComputeService\Container\bin\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy - Copy\ComputeService\Container\bin\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy - Copy\ComputeService\Container\bin\Debug\ServiceContract.dll
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy - Copy\ComputeService\Container\bin\Debug\ServiceContract.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy - Copy\ComputeService\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy - Copy\ComputeService\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy - Copy\ComputeService\Container\obj\Debug\Container.csproj.CopyComplete
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy - Copy\ComputeService\Container\obj\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - Copy - Copy\ComputeService\Container\obj\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Copy\ComputeService\Container\bin\Debug\Container.exe.config
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Copy\ComputeService\Container\bin\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Copy\ComputeService\Container\bin\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Copy\ComputeService\Container\bin\Debug\ServiceContract.dll
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Copy\ComputeService\Container\bin\Debug\ServiceContract.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Copy\ComputeService\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Copy\ComputeService\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Copy\ComputeService\Container\obj\Debug\Container.csproj.CopyComplete
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Copy\ComputeService\Container\obj\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Copy\ComputeService\Container\obj\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Nacin2\ComputeService\Container\bin\Debug\Container.exe.config
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Nacin2\ComputeService\Container\bin\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Nacin2\ComputeService\Container\bin\Debug\Container.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Nacin2\ComputeService\Container\bin\Debug\ServiceContract.dll
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Nacin2\ComputeService\Container\bin\Debug\ServiceContract.pdb
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Nacin2\ComputeService\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Nacin2\ComputeService\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Nacin2\ComputeService\Container\obj\Debug\Container.csproj.CopyComplete
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Nacin2\ComputeService\Container\obj\Debug\Container.exe
+D:\GitHub\III Godina\VI Semestar\Cloud-Computing\Projekti\ProjekatBC - FINAL - Nacin2\ComputeService\Container\obj\Debug\Container.pdb
